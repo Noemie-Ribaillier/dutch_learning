@@ -10,3 +10,6 @@ Future improvements:
 * check to remove some datatables details
 * check the sample proba, to get correct verbs not as often selected
 * check if i dont put a verb, that it goes to the next one
+
+
+check if a modification works
